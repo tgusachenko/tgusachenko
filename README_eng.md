@@ -7,13 +7,13 @@
 
 ### 👨‍💻 About me
 
-• Experienced in testing Web applications (functional, API, UI, smoke and regression testing);
-• Analyse requirements, editing of specifications;
-• Collaboration with Development team and Product Manager;
-• Designing test documentation (test plans, test cases, checklists, bug reports, and final test reports);
-• Strong communication skills;
-• Excellent organizational and time-management skills;
-• Analytical skills and attention to details.
+• Experienced in testing Web applications (functional, API, UI, smoke and regression testing) \
+• Analyse requirements, editing of specifications \
+• Collaboration with Development team and Product Manager \
+• Designing test documentation (test plans, test cases, checklists, bug reports, and final test reports) \
+• Strong communication skills \
+• Excellent organizational and time-management skills \
+• Analytical skills and attention to details \
 
 
 [![Linkedin: tgusachenko](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-gusachenko)
