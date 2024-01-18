@@ -3,42 +3,43 @@
  <tr><td><a href="README_eng.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
-# Привет, меня зовут Татьяна!
+# Hello, I'm Tanya!
 
 ---
 
-### 👨‍💻 Обо мне
+### 👨‍💻 About me
 
-• Опыт в тестировании веб-приложений (функциональное, API, UI, smoke и регрессионное тестирование)
-• Анализ требований, редактирование спецификаций
-• Создание тестовой документации (тест-планы, тест-кейсы, чек-листы, баг-репорты, итоговые отчеты о тестировании)
-• Взаимодействие с командой разработки и менеджером продукта
-• Сильные навыки коммуникации
-• Отличные организационные и управленческие навыки
-• Аналитические способности и внимание к деталям
+• Experienced in testing Web applications (functional, API, UI, smoke and regression testing);
+• Analyse requirements, editing of specifications;
+• Collaboration with Development team and Product Manager;
+• Designing test documentation (test plans, test cases, checklists, bug reports, and final test reports);
+• Strong communication skills;
+• Excellent organizational and time-management skills;
+• Analytical skills and attention to details.
 
 
 [![Linkedin: tgusachenko](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-gusachenko)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tnka516@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/tanya05_k)
 
-## Мое резюме
+## My CV 
 
-[Ссылка на резюме](https://ссылочку_сюда) 
+[CV link](https://ссылочку_сюда)
 
-## Портфолио 
-- Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-- SQL запросы 
-  -  [Название проекта](https://ссылочку_сюда)
+## Portfolio
+
+- Test Documentation
+  -  [Checklists](https://ссылочку_сюда)
+  -  [Test Cases](https://ссылочку_сюда)
+  -  [Bug Reports](https://ссылочку_сюда)
+- Postman Collection
+  -  [Project name](https://ссылочку_сюда)
+- SQL Requests 
+  -  [Project name](https://ссылочку_сюда)
   
-### Инструменты и технологии, используемые в работе
+### Tools and technologies used in work
 
-## 📁 Тестовая документация
+## 📁 Test Documentation
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -51,7 +52,7 @@
 
 ---
 
-## 🛠 Тестирование веб-приложений
+## 🛠 Testing Web applications
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -61,7 +62,7 @@
 
 ---
 
-## 📱 Тестирование мобильных приложений
+## 📱 Testing Mobile applications
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -74,7 +75,7 @@
 
 ---
 
-## 💾 Работа с базами данных
+## 💾 Working with databases
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -83,7 +84,7 @@
 
 ---
 
-## ✏️ Работа с кодом
+## ✏️ Working with code
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
