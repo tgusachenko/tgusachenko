@@ -24,7 +24,7 @@
 
 [CV link](https://ссылочку_сюда)
 
-<!-- ### Portfolio
+### Portfolio
 
 - Test Documentation
   -  [Checklists](https://ссылочку_сюда)
@@ -33,7 +33,7 @@
 - Postman Collection
   -  [Project name](https://ссылочку_сюда)
 - SQL Requests 
-  -  [Project name](https://ссылочку_сюда) -->
+  -  [Project name](https://github.com/tgusachenko/SQL.git)
   
 ### Tools and technologies
 

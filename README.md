@@ -26,17 +26,11 @@
 
 ### Портфолио 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tgusachenko&repo=SQL)](https://github.com/tgusachenko/SQL.git)
-
-- Тестовая документация
-
   -  [Чек-листы](https://ссылочку_сюда)
   -  [Тест-кейсы](https://ссылочку_сюда)
   -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-- SQL запросы 
-  -  [Название проекта](https://github.com/tgusachenko/SQL.git)
+  -  [Коллекция в Postman](https://ссылочку_сюда)
+  -  [SQL запросы](https://github.com/tgusachenko/SQL.git)
   
 ### Инструменты и технологии
 
