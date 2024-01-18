@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About me
+## 👨‍💻 About me
 
 • Experienced in testing Web applications (functional, API, UI, smoke and regression testing);
 • Analyse requirements, editing of specifications;
@@ -22,11 +22,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tnka516@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/tanya05_k)
 
-## My CV 
+### My CV 
 
 [CV link](https://ссылочку_сюда)
 
-## Portfolio
+### Portfolio
 
 - Test Documentation
   -  [Checklists](https://ссылочку_сюда)
@@ -37,9 +37,9 @@
 - SQL Requests 
   -  [Project name](https://ссылочку_сюда)
   
-### Tools and technologies used in work
+## Tools and technologies used in work
 
-## 📁 Test Documentation
+### 📁 Test Documentation
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -52,7 +52,7 @@
 
 ---
 
-## 🛠 Testing Web applications
+### 🛠 Testing Web applications
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -62,7 +62,7 @@
 
 ---
 
-## 📱 Testing Mobile applications
+### 📱 Testing Mobile applications
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -75,7 +75,7 @@
 
 ---
 
-## 💾 Working with databases
+### 💾 Working with databases
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -84,7 +84,7 @@
 
 ---
 
-## ✏️ Working with code
+### ✏️ Working with code
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
