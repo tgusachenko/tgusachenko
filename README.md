@@ -24,11 +24,11 @@
 
 [Ссылка на резюме](https://ссылочку_сюда) 
 
-<!-- ### Портфолио 
+### Портфолио 
 - Тестовая документация
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tgusachenko&repo=SQL)](https://github.com/tgusachenko/SQL.git)
+<!-- 
   -  [Чек-листы](https://ссылочку_сюда)
   -  [Тест-кейсы](https://ссылочку_сюда)
   -  [Баг-репорты](https://ссылочку_сюда)
