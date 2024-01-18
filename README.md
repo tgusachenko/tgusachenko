@@ -26,10 +26,10 @@
 
 ### Портфолио 
 
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
-  -  [Коллекция в Postman](https://ссылочку_сюда)
+  -  [Чек-листы](https://github.com/tgusachenko/checklists.git)
+  -  [Тест-кейсы](https://github.com/tgusachenko/test_cases.git)
+  -  [Баг-репорты](https://github.com/tgusachenko/bug_reports.git)
+  -  [Коллекция в Postman](https://github.com/tgusachenko/Postman.git)
   -  [SQL запросы](https://github.com/tgusachenko/SQL.git)
   
 ### Инструменты и технологии

@@ -27,13 +27,11 @@
 ### Portfolio
 
 - Test Documentation
-  -  [Checklists](https://ссылочку_сюда)
-  -  [Test Cases](https://ссылочку_сюда)
-  -  [Bug Reports](https://ссылочку_сюда)
-- Postman Collection
-  -  [Project name](https://ссылочку_сюда)
-- SQL Requests 
-  -  [Project name](https://github.com/tgusachenko/SQL.git)
+  -  [Checklists](https://github.com/tgusachenko/checklists.git)
+  -  [Test Cases](https://github.com/tgusachenko/test_cases.git)
+  -  [Bug Reports](https://github.com/tgusachenko/bug_reports.git)
+  -  [Postman Collection](https://github.com/tgusachenko/Postman.git)
+  -  [SQL Requests](https://github.com/tgusachenko/SQL.git)
   
 ### Tools and technologies
 
