@@ -1,4 +1,4 @@
-<!-- # Hello, I'm Tanya! -->
+## Hello, I'm Tanya!
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/rus-flag.png" height="13"> Russian</a></td></tr>
@@ -13,7 +13,7 @@
 • Designing test documentation (test plans, test cases, checklists, bug reports, and final test reports) \
 • Strong communication skills \
 • Excellent organizational and time-management skills \
-• Analytical skills and attention to details \
+• Analytical skills and attention to details
 
 
 [![Linkedin: tgusachenko](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-gusachenko)
