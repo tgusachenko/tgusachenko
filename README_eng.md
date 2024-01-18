@@ -35,7 +35,7 @@
 - SQL Requests 
   -  [Project name](https://ссылочку_сюда)
   
-### Tools and technologies used in work
+### Tools and technologies
 
 #### 📁 Test Documentation
 
